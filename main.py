@@ -68,14 +68,14 @@ if not os.path.exists(TRANSCRIPT_PATH):
 
 
 # Configuration (adjust these)
-SUPPORT_TICKET_CATEGORY_ID = 1428391800590307461  # Replace with your category ID
-BUG_TICKET_CATEGORY_ID = 1428463578012455103  # Replace with your category ID
-PURCHASE_TICKET_CATEGORY_ID = 1428395363076804762  # Replace with your category ID
-STAFF_ROLE_ID = 1357337569955938406  # Your staff role ID or None
-TICKET_LOG_CHANNEL_ID = 1428398041186172988  # Replace with your log channel ID or None
+SUPPORT_TICKET_CATEGORY_ID =   # Replace with your category ID
+BUG_TICKET_CATEGORY_ID =   # Replace with your category ID
+PURCHASE_TICKET_CATEGORY_ID =   # Replace with your category ID
+STAFF_ROLE_ID =   # Your staff role ID or None
+TICKET_LOG_CHANNEL_ID =   # Replace with your log channel ID or None
 TICKET_COUNTER = 0
-APPLICATION_CHANNEL_ID = 1431660029781479516
-ACCEPTED_ROLE_ID = 1357420438082293912
+APPLICATION_CHANNEL_ID = 
+ACCEPTED_ROLE_ID = 
 
 
 # ✅ Add this line
