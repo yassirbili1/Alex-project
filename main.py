@@ -42,13 +42,13 @@ intents.members = True
 invite_cache = {}
 
 
-TOKEN = "MTM2MDU4NDU5OTM2NDcwMjM5OQ.Gfz2Vx.mVBthgZc6xhZRoOsTHMVI1Yzj-TcaV7yBfthkc"  # Replace with your bot token
+TOKEN = ""  # Replace with your bot token
 
 
 
-WELCOME_CHANNEL_ID = 1357335173389353086
-LEAVE_CHANNEL_ID = 1357335175025004544
-LOG_CHANNEL_ID = 1357335200723501086 # Replace with your log channel ID
+WELCOME_CHANNEL_ID = 
+LEAVE_CHANNEL_ID = 
+LOG_CHANNEL_ID =  # Replace with your log channel ID
 
 # Intents are required for accessing certain information
 intents = discord.Intents.default()
